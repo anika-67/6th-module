@@ -1,0 +1,20 @@
+.a{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(media/images/header-bg.png);
+    background-size: cover;
+    height: 600px;
+}
+.a h1{
+    text-align: center;
+}
+.a audio{
+    padding-left: 10%;
+}
+.a h2{
+    padding-left: 10%;
+}
+.a video{
+    padding-left: 10%;
+    height: 300px;
+}
